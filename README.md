@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Kara "Jk" Jacobs
+- **Date:** 06 April 2024
+- **Current Role/Position:** Hotel Receptionist/Reservationist
+- **Field of Interest:** Software Development
 
 ### Part 1: Self-Assessment Reflection
 
